@@ -2,4 +2,4 @@
 .vscode/
 ds-plus-final.db
 __pycache__/
-
+catboost_info/
