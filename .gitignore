@@ -1,3 +1,5 @@
 .venv/
 .vscode/
-ds-plus-final.db 
+ds-plus-final.db
+__pycache__/
+
